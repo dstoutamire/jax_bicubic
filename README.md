@@ -38,12 +38,6 @@ The terms ∂x/∂θ and ∂y/∂θ come from our parameterization (e.g., distor
 ## Installation
 
 ```bash
-pip install jax-bicubic
-```
-
-Or install from source:
-
-```bash
 git clone https://github.com/dstoutamire/jax_bicubic.git
 cd jax_bicubic
 pip install -e ".[test]"
